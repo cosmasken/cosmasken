@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/cosmasaruba" target="blank"><img src="https://img.shields.io/twitter/follow/cosmasaruba?logo=twitter&style=for-the-badge" alt="cosmasaruba" /></a> </p>
 
-- 🔭 I’m currently working on [Flutter Ecommerce App with Mysql DB](https://github.com/cosmasken/Flutter-Ecommerce-Mysql)
+- 🔭 I’m currently working on my Angular & React skills
 
 - 🌱 I’m currently learning **kotlin**
 
