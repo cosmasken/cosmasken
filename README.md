@@ -15,9 +15,6 @@
 
 - 🤝 I’m looking for help with [TheOddsApiClient](https://github.com/cosmasken/TheOddsApiClient)
 
-- 👨‍💻 All of my projects are available at [harambeeapps.co.ke](harambeeapps.co.ke)
-
-- 📝 I regularly write articles on [harambeeapps.co.ke](harambeeapps.co.ke)
 
 - 💬 Ask me about **java,c++,c**
 
