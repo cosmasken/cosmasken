@@ -18,9 +18,8 @@
 
 - 💬 Ask me about **java,c++,c**
 
-- 📫 How to reach me **cosmasken@harambeeapps.co.ke**
+- 📫 How to reach me **cosmasarubaken@gmail.com**
 
-- 📄 Know about my experiences [https://harambeeapps.co.ke](https://harambeeapps.co.ke)
 
 - ⚡ Fun fact **I went to law school.**
 
