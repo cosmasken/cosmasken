@@ -16,7 +16,7 @@
 - 🤝 I’m looking for help with [TheOddsApiClient](https://github.com/cosmasken/TheOddsApiClient)
 
 
-- 💬 Ask me about **java,c++,c**
+- 💬 Ask me about **java,javascript,dart**
 
 - 📫 How to reach me **cosmasarubaken@gmail.com**
 
