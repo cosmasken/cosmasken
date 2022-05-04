@@ -21,7 +21,7 @@
 - 📫 How to reach me **cosmasarubaken@gmail.com**
 
 
-- ⚡ Fun fact **I studied law for fivr years.**
+- ⚡ Fun fact **I studied law for five years.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
