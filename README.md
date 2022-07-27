@@ -18,8 +18,6 @@
 
 - 💬 Ask me about **java,javascript,dart**
 
-- 📫 How to reach me **cosmasarubaken@gmail.com**
-
 
 - ⚡ Fun fact **I studied law for five years.**
 
