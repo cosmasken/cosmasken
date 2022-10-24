@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my Angular & React skills
 
-- 🌱 I’m currently learning **kotlin**
+<!--- 🌱 I’m currently learning **kotlin** -->
 
 - 👯 I’m looking to collaborate on [Flutter Number Game](https://github.com/cosmasken/numbers-memory-game-flutter)
 
@@ -19,7 +19,6 @@
 - 💬 Ask me about **java,javascript,dart**
 
 
-- ⚡ Fun fact **I studied law for five years.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
