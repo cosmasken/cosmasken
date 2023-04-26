@@ -7,13 +7,13 @@
 
 <!--p align="left"> <a href="https://twitter.com/cosmasaruba" target="blank"><img src="https://img.shields.io/twitter/follow/cosmasaruba?logo=twitter&style=for-the-badge" alt="cosmasaruba" /></a> </p-->
 
-- 🔭 I’m currently working on my Angular & React skills
+- 🔭 I’m currently working on my Leadership skills
 
 <!--- 🌱 I’m currently learning **kotlin** -->
 
 - 👯 I’m looking to collaborate on [Flutter Number Game](https://github.com/cosmasken/numbers-memory-game-flutter)
 
-- 🤝 I’m looking for help with [TheOddsApiClient](https://github.com/cosmasken/TheOddsApiClient)
+<!--🤝 I’m looking for help with [TheOddsApiClient](https://github.com/cosmasken/TheOddsApiClient)-->
 
 
 - 💬 Ask me about **java,javascript,dart**
