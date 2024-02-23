@@ -11,7 +11,7 @@
 
 <!--- 🌱 I’m currently learning **kotlin** -->
 
-- 👯 I’m looking to collaborate on [Flutter Number Game](https://github.com/cosmasken/numbers-memory-game-flutter)
+- 👯 I’m looking to collaborate on [Ic-Payroll](https://github.com/cosmasken/ic-payroll)
 
 <!--🤝 I’m looking for help with [TheOddsApiClient](https://github.com/cosmasken/TheOddsApiClient)-->
 
