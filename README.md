@@ -5,18 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cosmasken" alt="cosmasken" /></a> </p>
 
-<!--p align="left"> <a href="https://twitter.com/cosmasaruba" target="blank"><img src="https://img.shields.io/twitter/follow/cosmasaruba?logo=twitter&style=for-the-badge" alt="cosmasaruba" /></a> </p-->
 
-- 🔭 I’m currently working on my Leadership skills
+<p align="left"> <a href="https://twitter.com/cosmasaruba" target="blank"><img src="https://img.shields.io/twitter/follow/cosmasaruba?logo=twitter&style=for-the-badge" alt="cosmasaruba" /></a> </p>
+
+- 🔭 I’m currently working on Rust development
 
 <!--- 🌱 I’m currently learning **kotlin** -->
 
 - 👯 I’m looking to collaborate on [Ic-Payroll](https://github.com/cosmasken/ic-payroll)
 
-<!--🤝 I’m looking for help with [TheOddsApiClient](https://github.com/cosmasken/TheOddsApiClient)-->
+<🤝 I’m looking for a new role  [Linkedin](https://www.linkedin.com/in/cosmasarubaken)>
 
-
-- 💬 Ask me about **java,javascript,dart**
+- 💬 Ask me about **Vue,Motoko,Java,Dart**
 
 
 
