@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [Ic-Payroll](https://github.com/cosmasken/ic-payroll)
 
-<🤝 I’m looking for a new role  [Linkedin](https://www.linkedin.com/in/cosmasarubaken)>
+- 🤝 I’m looking for a new role  [Linkedin](https://www.linkedin.com/in/cosmasarubaken)
 
 - 💬 Ask me about **Vue,Motoko,Java,Dart**
 
