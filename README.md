@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [ic-payroll](https://ilcnp-myaaa-aaaal-qjdxa-cai.icp0.io/)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Move**
 
 - 👯 I’m looking to collaborate on [ic-payroll](https://ilcnp-myaaa-aaaal-qjdxa-cai.icp0.io/)
 
 - 🤝 I’m looking for help with [Numbers Memory Game](https://github.com/cosmasken/numbers-memory-game-flutter)
 
-- 💬 Ask me about **React , Vue , Motoko , React Native , Android**
+- 💬 Ask me about **React, Vue, Motoko, Rust, Android**
 
 - 📫 How to reach me **arubacosmas@gmail.com**
 
