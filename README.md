@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cosmas</h1>
-<h3 align="center">Full-Stack Developer from Kenya</h3>
+<h3 align="center">Full-Stack Developer from Mars</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmasken&label=Profile%20views&color=0e75b6&style=flat" alt="cosmasken" /> </p>
 
@@ -13,7 +13,6 @@
 
 - 👯 I’m looking to collaborate on [ic-payroll](https://ilcnp-myaaa-aaaal-qjdxa-cai.icp0.io/)
 
-- 🤝 I’m looking for help with [Numbers Memory Game](https://github.com/cosmasken/numbers-memory-game-flutter)
 
 - 💬 Ask me about **React, Vue, Motoko, Rust, Android**
 
