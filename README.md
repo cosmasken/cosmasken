@@ -11,18 +11,13 @@
 - 👯 I’m looking to collaborate on [ic-payroll](https://ilcnp-myaaa-aaaal-qjdxa-cai.icp0.io/)
 
 
-- 💬 Ask me about **React, Vue, Motoko, Rust, Android**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cosmasweb3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cosmasweb3" height="30" width="40" /></a>
+<a href="https://twitter.com/2vxsfae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cosmasweb3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cosmasarubaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cosmasarubaken" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cosmasweb3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cosmasweb3" height="30" width="40" /></a>
 </p>
 
 s
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmasken&show_icons=true&locale=en&layout=compact" alt="cosmasken" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmasken&show_icons=true&locale=en" alt="cosmasken" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmasken&" alt="cosmasken" /></p>
