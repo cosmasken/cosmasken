@@ -1,6 +1,3 @@
-
-- 🔭 I’m currently working on [ic-payroll](https://ilcnp-myaaa-aaaal-qjdxa-cai.icp0.io/)
-
 - 🌱 I’m currently learning Bitcoin Development
 
 <h3 align="left">Connect with me:</h3>
