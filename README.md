@@ -1,4 +1,20 @@
-- 🌱 I’m currently learning Bitcoin Development
+# My Experience  
+
+## Blockchain & Smart Contracts  
+- **Bitcoin**: Rust Bitcoin Development.  
+- **Internet Computer (ICP)**: Integrating **Internet Identity**, **ckBTC**, and **HTTPS outcalls**.  
+- **Ethereum & MetaMask**: Authentication flows using **SIWE** and **SIWS**.  
+- **Move Programming Language**: **Move** for smart contract development on SUi And Aptos.  
+- **Cartesi**: Working with Cartesi's tech stack.  
+
+## Web Development  
+- **Vue.js & Tailwind CSS**: Vue 3 + TailwindCSS + Pinia.
+- **React & Framer Motion**: Built animations for an **Aviator crash game** inspired by SportPesa's Aviator.
+
+## Backend Development  
+- **Motoko**: Backend development on ICP.
+- **Rust**: Backend development on ICP , BTC ,ETH.
+- **Java**: Android Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
