@@ -4,7 +4,7 @@
 - **Bitcoin**: Rust Bitcoin Development.  
 - **Internet Computer (ICP)**: Integrating **Internet Identity**, **ckBTC**, and **HTTPS outcalls**.  
 - **Ethereum & MetaMask**: Authentication flows using **SIWE** and **SIWS**.  
-- **Move Programming Language**: **Move** for smart contract development on SUi And Aptos.  
+- **Move Programming Language**: **Move** for smart contract development on Sui And Aptos.  
 - **Cartesi**: Working with Cartesi's tech stack.  
 
 ## Web Development  
