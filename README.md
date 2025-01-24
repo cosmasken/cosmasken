@@ -14,7 +14,7 @@
 ## Backend Development  
 - **Motoko**: Backend development on ICP.
 - **Rust**: Backend development on ICP , BTC ,ETH.
-- **Java**: Android Development
+- **Java**: Android Development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
