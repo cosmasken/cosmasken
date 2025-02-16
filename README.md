@@ -2,7 +2,7 @@
 
 ## Blockchain & Smart Contracts  
 - **Bitcoin**: Rust Bitcoin Development.
-- **EVM**: BUilding on EVM  networks.
+- **EVM**: Building on EVM  networks.
 - **Internet Computer (ICP)**: Integrating **Internet Identity**, **ckBTC**, and **HTTPS outcalls**.  
 - **Ethereum & MetaMask**: Authentication flows using **SIWE** and **SIWS**.  
 - **Move Programming Language**: **Move** for smart contract development on Sui And Aptos.  
