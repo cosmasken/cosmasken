@@ -6,11 +6,11 @@
 - **Internet Computer (ICP)**: Integrating **Internet Identity**, **ckBTC**, and **HTTPS outcalls**.  
 - **Ethereum & MetaMask**: Authentication flows using **SIWE** and **SIWS**.  
 - **Move Programming Language**: **Move** for smart contract development on Sui And Aptos.  
-- **Cartesi**: Working with Cartesi's tech stack.  
+- **Rollups**: Working with Cartesi's tech stack.  
 
 ## Web Development  
-- **Vue.js & Tailwind CSS**: Vue 3 + TailwindCSS + Pinia.
-- **React & Framer Motion**: Built animations for an **Aviator crash game** inspired by SportPesa's Aviator.
+- **Vue.js & Tailwind CSS**: Vue 3/ Nuxt 3 + TailwindCSS + Pinia.
+- **React & Next**: React + Framer.
 
 ## Backend Development  
 - **Motoko**: Backend development on ICP.
