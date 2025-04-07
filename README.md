@@ -10,6 +10,6 @@
 - **Rust**: Backend development on ICP , BTC ,ETH.
 - **Java**: Android Development.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmasken&show_icons=true&locale=en&layout=compact" alt="cosmasken" /></p>
+<!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmasken&show_icons=true&locale=en&layout=compact" alt="cosmasken" /></p-->
 
 
