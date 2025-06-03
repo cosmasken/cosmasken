@@ -8,7 +8,6 @@
 - **React & Next**: React + Framer.
 - **Motoko**: Backend development on ICP.
 - **Rust**: Backend development on ICP , BTC ,ETH.
-- **Java**: Android Development.
 
 <!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmasken&show_icons=true&locale=en&layout=compact" alt="cosmasken" /></p-->
 
