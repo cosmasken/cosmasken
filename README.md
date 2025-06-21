@@ -11,9 +11,13 @@
 
 ---
 
-> 🛡️ To verify my identity or avoid impersonation scams, DM me directly:  
-> • [Twitter @2vxsfae](https://twitter.com/2vxsfae)  
-> • [Telegram @cosmasweb3](https://t.me/cosmasweb3)
+## 📡 Identity Verification
+
+> 🛡️ To avoid impersonation or confirm it's me, DM me:
+>
+> [![Twitter](https://img.shields.io/badge/Twitter-@2vxsfae-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/2vxsfae)
+> [![Telegram](https://img.shields.io/badge/Telegram-@cosmasweb3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cosmasweb3)
+
 
 ## 🚀 Tech Stack
 
