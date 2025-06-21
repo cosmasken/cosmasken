@@ -13,11 +13,13 @@
 
 ## 📡 Identity Verification
 
-> 🛡️ To avoid impersonation or confirm it's me, DM me:
+> 🛡️ **Important:** There have been cases of impersonation using my name on Reddit and other platforms.  
+> To verify you're talking to the real me, DM me directly:
 >
 > [![Twitter](https://img.shields.io/badge/Twitter-@2vxsfae-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/2vxsfae)
 > [![Telegram](https://img.shields.io/badge/Telegram-@cosmasweb3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cosmasweb3)
 
+---
 
 ## 🚀 Tech Stack
 
@@ -31,7 +33,6 @@
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
-<!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmasken&show_icons=true&locale=en&layout=compact" alt="cosmasken" /></p-->
-
-
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmasken&show_icons=true&locale=en&layout=compact" alt="cosmasken" /></p>
+-->
