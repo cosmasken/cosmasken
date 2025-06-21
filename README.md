@@ -15,8 +15,6 @@
 > • [Twitter @2vxsfae](https://twitter.com/2vxsfae)  
 > • [Telegram @cosmasweb3](https://t.me/cosmasweb3)
 
-- DMme directly x@2vxsfae ot telegram @cosmasweb3
-
 <!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmasken&show_icons=true&locale=en&layout=compact" alt="cosmasken" /></p-->
 
 
